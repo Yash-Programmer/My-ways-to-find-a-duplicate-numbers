@@ -1,4 +1,4 @@
-# My Ways to find duplicate numbers in a array
+# My Ways to find duplicate numbers in a list
 
 Hello everyone, These are some of my ways to find duplicate numbers in a array
 
